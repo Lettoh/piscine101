@@ -1,0 +1,7 @@
+Credentials cache: API:37619
+        Principal: fleonard@LE-101.FR
+
+  Issued                Expires               Principal
+Jul  2 13:40:17 2018  Jul  2 23:40:17 2018  krbtgt/LE-101.FR@LE-101.FR
+Jul  2 13:40:17 2018  Jul  2 23:40:17 2018  ldap/ldap-master.le-101.fr@LE-101.FR
+Jul  2 13:40:17 2018  Jul  2 23:40:17 2018  HTTP/storage-student.le-101.fr@LE-101.FR
